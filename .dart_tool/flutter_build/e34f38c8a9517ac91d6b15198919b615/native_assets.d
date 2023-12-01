@@ -1,0 +1,1 @@
+ C:\\Users\\zakar\\StudioProjects\\chatapp\\.dart_tool\\flutter_build\\e34f38c8a9517ac91d6b15198919b615\\native_assets.yaml: 
